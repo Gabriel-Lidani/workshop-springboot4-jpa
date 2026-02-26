@@ -13,6 +13,7 @@ A aplicação simula um sistema de e-commerce, permitindo operações básicas d
 
 ## Modelo conceitual
 
+<img width="890" height="358" alt="Image" src="https://github.com/user-attachments/assets/363872f1-5ce2-4dd4-ad7a-9fcac5fa0bfd" />
 
 # Tecnologias utilizadas
 ## Back end
